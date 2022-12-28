@@ -1,3 +1,7 @@
+## How to build?
+
+1. Clone the repository or [download](https://codeload.github.com/0x1408/Gamesense-Loader/zip/refs/heads/main) it.
+
 ## Credits
 
 *   [SimpleLoader](https://github.com/WilsonPublic/SimpleLoader) - for great Loader source
