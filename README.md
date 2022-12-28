@@ -1,4 +1,4 @@
-## Acknowledgments
+## Credits
 
 *   [SimpleLoader](https://github.com/WilsonPublic/SimpleLoader) - for great Loader source
 
