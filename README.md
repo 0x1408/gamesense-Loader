@@ -8,12 +8,12 @@ This project is an almost one-to-one copy of the original cheatloader by gamesen
 
 <h2 align="center">How to build?</h2>
 
-<p>1. Clone the repository or download it.</p>
-<p>1.1. Unzip the file if you downloaded it.</p>
-<p>2. Open the 'Gamesense Loader.sln' in Visual Studio.</p>
-<p>3. Click on Build</p>
-<p>3.1. Click on build solution and wait until its finished.</p>
-<p>3.2. Locate into the Folder that is shown in the console log of the build.</p>
+<p align="center">1. Clone the repository or download it.</p>
+<p align="center">1.1. Unzip the file if you downloaded it.</p>
+<p align="center">2. Open the 'Gamesense Loader.sln' in Visual Studio.</p>
+<p align="center">3. Click on Build</p>
+<p align="center">3.1. Click on build solution and wait until its finished.</p>
+<p align="center">3.2. Locate into the Folder that is shown in the console log of the build.</p>
 
 <h2 align="center">Credits</h2>
 
