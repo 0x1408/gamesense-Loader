@@ -3,8 +3,8 @@ This project is an almost one-to-one copy of the original cheatloader by gamesen
 
 <h2 align="center">Requirements</h2>
 
-*   [Visual Studio](https://visualstudio.microsoft.com/)
-*   .NET Framework 4.6.1
+<p align="center">Visual Studio</p>
+<p align="center">.NET Framework 4.6.1</p>
 
 <h2 align="center">How to build?</h2>
 
@@ -17,7 +17,7 @@ This project is an almost one-to-one copy of the original cheatloader by gamesen
 
 <h2 align="center">Credits</h2>
 
-*   [SimpleLoader](https://github.com/WilsonPublic/SimpleLoader) - for great Loader source
+<p align="center">SimpleLoader by WilsonPublic.</p>
 
 <h2 align="center">License</h2>
 <p align="center">This project is licensed under the MIT license. For more detailed information, see the license file in the repository.</p>
