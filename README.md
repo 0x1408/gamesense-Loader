@@ -8,7 +8,7 @@ This project is an almost one-to-one copy of the original cheatloader by gamesen
 
 <h2 align="center">How to build?</h2>
 
-<p>1. Clone the repository or [download](https://codeload.github.com/0x1408/Gamesense-Loader/zip/refs/heads/main) it.</p>
+<p>1. Clone the repository or download it.</p>
 <p>1.1. Unzip the file if you downloaded it.</p>
 <p>2. Open the 'Gamesense Loader.sln' in Visual Studio.</p>
 <p>3. Click on Build</p>
