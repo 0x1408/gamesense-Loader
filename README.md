@@ -20,4 +20,4 @@ This project is an almost one-to-one copy of the original cheatloader by gamesen
 *   [SimpleLoader](https://github.com/WilsonPublic/SimpleLoader) - for great Loader source
 
 <h2 align="center">License</h2>
-This project is licensed under the [MIT License](https://opensource.org/licenses/mit-license.php) - see the [LICENSE](https://github.com/0x1408/Gamesense-Loader/blob/main/LICENSE) file for details.
+<p align="center">This project is licensed under the MIT license. For more detailed information, see the license file in the repository.</p>
