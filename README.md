@@ -1,5 +1,6 @@
 <h2 align="center">What is this repository?</h2>
-This project is an almost one-to-one copy of the original cheatloader by gamesense in C#. I have developed and published this project for educational purposes only and will not compensate any damages or losses if you use this program at your own risk. I am not liable for any damage caused by this repository. If you are interested in improving this repository, feel free to create a pull request.
+
+<p align="center">This project is an almost one-to-one copy of the original cheatloader by gamesense in C#. I have developed and published this project for educational purposes only and will not compensate any damages or losses if you use this program at your own risk. I am not liable for any damage caused by this repository. If you are interested in improving this repository, feel free to create a pull request.</p>
 
 <h2 align="center">Requirements</h2>
 
